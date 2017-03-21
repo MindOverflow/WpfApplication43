@@ -1,0 +1,13 @@
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\bin\Debug\CorporateServices.Recognition.Common.exe.config
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\bin\Debug\CorporateServices.Recognition.Common.exe
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\bin\Debug\CorporateServices.Recognition.Common.pdb
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\MainWindow.g.cs
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\App.g.cs
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\CorporateServices.Recognition.Common_MarkupCompile.cache
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\CorporateServices.Recognition.Common_MarkupCompile.lref
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\MainWindow.baml
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\CorporateServices.Recognition.Common.g.resources
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\CorporateServices.Recognition.Common.Properties.Resources.resources
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\CorporateServices.Recognition.Common.csproj.GenerateResource.Cache
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\CorporateServices.Recognition.Common.exe
+F:\WPF\Tests\WpfApplication43\CorporateServices.Recognition.Common\obj\Debug\CorporateServices.Recognition.Common.pdb

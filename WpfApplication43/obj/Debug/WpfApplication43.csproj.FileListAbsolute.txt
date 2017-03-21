@@ -18,3 +18,12 @@ F:\WPF\Tests\WpfApplication43\WpfApplication43\obj\Debug\WpfApplication43.csproj
 F:\WPF\Tests\WpfApplication43\WpfApplication43\obj\Debug\WpfApplication43.exe
 F:\WPF\Tests\WpfApplication43\WpfApplication43\obj\Debug\WpfApplication43.pdb
 F:\WPF\Tests\WpfApplication43\WpfApplication43\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\WPF\Tests\WpfApplication43\WpfApplication43\bin\Debug\CorporateServices.Common.exe
+F:\WPF\Tests\WpfApplication43\WpfApplication43\bin\Debug\CorporateServices.Recognition.Common.exe
+F:\WPF\Tests\WpfApplication43\WpfApplication43\bin\Debug\Microsoft.Practices.Prism.dll
+F:\WPF\Tests\WpfApplication43\WpfApplication43\bin\Debug\RequestPresentation.Common.exe
+F:\WPF\Tests\WpfApplication43\WpfApplication43\bin\Debug\CorporateServices.Common.pdb
+F:\WPF\Tests\WpfApplication43\WpfApplication43\bin\Debug\CorporateServices.Recognition.Common.pdb
+F:\WPF\Tests\WpfApplication43\WpfApplication43\bin\Debug\RequestPresentation.Common.pdb
+F:\WPF\Tests\WpfApplication43\WpfApplication43\obj\Debug\Templates\CRMBriefTemplate.baml
+F:\WPF\Tests\WpfApplication43\WpfApplication43\obj\Debug\Templates\TextStyles.baml

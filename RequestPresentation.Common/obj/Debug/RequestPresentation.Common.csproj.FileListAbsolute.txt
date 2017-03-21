@@ -1,0 +1,13 @@
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\bin\Debug\RequestPresentation.Common.exe.config
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\bin\Debug\RequestPresentation.Common.exe
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\bin\Debug\RequestPresentation.Common.pdb
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\MainWindow.g.cs
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\App.g.cs
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\RequestPresentation.Common_MarkupCompile.cache
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\RequestPresentation.Common_MarkupCompile.lref
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\MainWindow.baml
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\RequestPresentation.Common.g.resources
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\RequestPresentation.Common.Properties.Resources.resources
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\RequestPresentation.Common.csproj.GenerateResource.Cache
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\RequestPresentation.Common.exe
+F:\WPF\Tests\WpfApplication43\RequestPresentation.Common\obj\Debug\RequestPresentation.Common.pdb
