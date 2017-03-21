@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="CheckedButtonColor" Color="#1A3347"/>
+    <SolidColorBrush x:Key="UncheckedButtonColor" Color="#3E6585" />
+    <SolidColorBrush x:Key="MenuButtonForeground" Color="#C8D5DF" />
+    <SolidColorBrush x:Key="MenuBackground" Color="#457194" />
+    <SolidColorBrush x:Key="StatesIconsBackground" Color="#7a99b2" />
+    <SolidColorBrush x:Key="PanelBackgroundBrush" Color="#DEE8F1" />
+    <SolidColorBrush x:Key="MainBackground" Color="#BCCBD6" />
+
+    <SolidColorBrush x:Key="DarkGrayBrush3" Color="#595959"/>
+    <SolidColorBrush x:Key="DarkGrayBrush2" Color="#797979"/>
+    <SolidColorBrush x:Key="DarkGrayBrush" Color="#959595"/>
+    <SolidColorBrush x:Key="LightGrayBrush" Color="#CCCCCC"/>
+
+</ResourceDictionary>

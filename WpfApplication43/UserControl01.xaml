@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="WpfApplication43.UserControl01"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/SharedModules.Common.UI;component/Styles/Brushes.xaml" />
+                <ResourceDictionary Source="/SharedModules.Common.UI;component/Styles/Icons.xaml" />
+                <ResourceDictionary Source="/SharedModules.Common.UI;component/Styles/TextStyles.xaml" />
+                <ResourceDictionary Source="Views/CustomMenuStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- 01 --> 
+            <DataTemplate x:Key="DefaultRequestTemplate">
+                <Grid />
+            </DataTemplate>
+
+            <!-- 02 -->
+            <DataTemplate x:Key="WaitForRequestTemplate">
+                
+            </DataTemplate>
+
+            <!-- 03 -->
+            <DataTemplate x:Key="WorkDoneRequestTemplate">
+                
+            </DataTemplate>
+
+            <!-- 04 -->
+            <DataTemplate x:Key="NotReadyRequestTemplate">
+                
+            </DataTemplate>
+
+            <!-- 05 -->
+            <DataTemplate x:Key="LoadingRequestTemplate">
+                
+            </DataTemplate>
+
+            <!-- 06 -->
+            <DataTemplate x:Key="IncomeVoiceRequestTemplate">
+                
+            </DataTemplate>
+
+            <!-- 07 -->
+            <DataTemplate x:Key="InProgressTemplate">
+                
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        
+    </Grid>
+</UserControl>
